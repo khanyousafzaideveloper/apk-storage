@@ -2,8 +2,8 @@
   "files": [
     {
       "id": "1752210944110",
-      "name": "Language Translator",
-      "description": "Ai Assitant",
+      "name": "AI Assistant",
+      "description": "AI Assistant helps you generate images and text with help of hugging face AI API.",
       "file_name": "app-debug.apk",
       "file_size": "86.77 MB",
       "file_path": "apks/Language_Translator_1752210772229_0xj6vm",
