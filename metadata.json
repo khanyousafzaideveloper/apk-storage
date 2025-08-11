@@ -1,19 +1,6 @@
 {
   "files": [
     {
-      "id": "1752470563411",
-      "name": "Smart calculator",
-      "description": "aaa",
-      "file_name": "app-debug-androidTest.apk",
-      "file_size": "939.01 KB",
-      "file_path": "apks/Smart_calculator_1752470560917_nbodgw.apk",
-      "upload_date": "7/14/2025",
-      "created_at": "2025-07-14T05:22:43.426Z",
-      "download_url": "https://raw.githubusercontent.com/khanyousafzaideveloper/apk-storage/main/apks/Smart_calculator_1752470560917_nbodgw.apk",
-      "sha": "318de29a4cff258ec7fb929e369e2726887d070d",
-      "is_chunked": false
-    },
-    {
       "id": "1752210944110",
       "name": "AI Assistant",
       "description": "AI Assistant helps you generate images and text with help of hugging face AI API.",
